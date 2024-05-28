@@ -1,4 +1,7 @@
 # Dynamically Filter a Lookup field with Client Script
+Blog Post: https://www.squarelabs.com.au/post/dynamically-filter-a-lookup-field-with-client-script
+
+YouTube: https://youtu.be/x2KSiUyfJAw
 
 Lookup fields are great for linking records together inside your CRM. However, one of the most common requests I receive is how to filter the lookup results quickly without clicking on the lookup search.
 
@@ -91,8 +94,11 @@ Currently, there are some limitations to client scripts. I've listed a few that 
 
 I hope this article has helped you configure some client scripts in your CRM. Filtering lookup fields is just one of the many things you can do with client scripts. Check out the documentation below for more information.
 
-Need Help? Contact us!
+Need Help? [Contact us!](https://www.squarelabs.com.au/contact-us)
 
-Resources
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=x2KSiUyfJAw" target="_blank"><img src="http://img.youtube.com/vi/x2KSiUyfJAw/0.jpg" 
+alt="YouTube Video" width="240" height="180" border="10" /></a>
+
+## Resources
 
 https://www.zoho.com/crm/developer/docs/client-script/overview.html
