@@ -12,7 +12,7 @@ For example, let's say you have a lookup field called "Supplier Account" assigne
 
 To do this, you can go into the Layout Builder, open up the Lookup Properties, and select 'Filter lookup records.' Here, you can configure the criteria for that lookup. In this example, we only want accounts where the account type is 'Supplier.'
 
-### IMAGE
+![Screenshot of the Lookup Properties](https://static.wixstatic.com/media/c8c3af_b7403705832c40899b8a44d8693b209f~mv2.png/v1/fill/w_740,h_417,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c8c3af_b7403705832c40899b8a44d8693b209f~mv2.png)
 
 Now, when we use this lookup inside the record, the results are filtered for us and our selection options are reduced.
 
@@ -44,7 +44,7 @@ In our example, we want the "Supplier Contact" field to only show contacts assoc
 6. Details Page > Page Event > onLoad
 7. Details Page > Field Event (Supplier Account) > onBeforeUpdate
 
-In our example, the same script will be used for 6 of the 7 events, so we can copy and paste it, or you can create functions that you can call in the Static Resources section, which we will cover in another article.
+In our example, the same script will be used for 6 of the 7 events, so we can copy and paste it, or you can create functions that you can call in the [Static Resources](https://www.zoho.com/crm/developer/docs/client-script/static-resources.html) section, which we will cover in another article.
 
 To start, click the 'New Script' button, then configure the page and event triggers for your client script. Write your script or copy the one below as a template.
 
